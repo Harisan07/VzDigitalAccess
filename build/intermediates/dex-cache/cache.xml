@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.9\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1847846c27c4510127ced2230a18e6ddf56d349b">
+        <dex dex="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\pre-dexed\debug\classes-8125b24162e4749e52216c8b1df2925fef612513.jar" />
+    </item>
+    <item
+        jar="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\exploded-aar\IBeaconPoC\googleplayservices_lib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eda094da276be06e0ef3845f83080982ab483fc2">
+        <dex dex="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\pre-dexed\debug\classes-56098fe4bcc2a5b84651a12cccda31d061c0002b.jar" />
+    </item>
+    <item
+        jar="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\pre-dexed\debug\android-support-v4-3e7f8d056b96bf2551f58af07f1c354879506387.jar" />
+    </item>
+    <item
+        jar="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\exploded-aar\IBeaconPoC\googleplayservices_lib\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="D:\Beacon-Scanner-and-Logger-master\AndroidStudio (v1_4 onwards)\IBeaconPoC\IBeaconPoC\build\intermediates\pre-dexed\debug\google-play-services-61d4475703c5e8c4681a9a265154894ccc609074.jar" />
+    </item>
+
+</items>
